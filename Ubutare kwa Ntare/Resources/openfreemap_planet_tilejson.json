@@ -1,0 +1,8 @@
+{
+  "tilejson": "3.0.0",
+  "tiles": [
+    "https://tiles.openfreemap.org/planet/20260607_080001_pt/{z}/{x}/{y}.pbf"
+  ],
+  "minzoom": 0,
+  "maxzoom": 14
+}

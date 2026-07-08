@@ -1,0 +1,24 @@
+{
+  "originHash" : "cb928b3986eb65eeebf1b26adf8314e48d673b769cdd14cf6a02a0cb3438bddf",
+  "pins" : [
+    {
+      "identity" : "maplibre-gl-native-distribution",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/maplibre/maplibre-gl-native-distribution",
+      "state" : {
+        "revision" : "84a79bc375a301169390ac110c868f06c857b83f",
+        "version" : "6.27.0"
+      }
+    },
+    {
+      "identity" : "onesignal-xcframework",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/OneSignal/OneSignal-XCFramework",
+      "state" : {
+        "revision" : "af871d3492e3dd233eb456b550aa53ce33d26c2d",
+        "version" : "5.5.3"
+      }
+    }
+  ],
+  "version" : 3
+}
