@@ -49,7 +49,7 @@ enum AppConstants {
     static let burundiMinZoom: Double = 7.0
     static let burundiMinZoomHybrid: Double = 3.0
     //mapzoom14.0
-    static let burundiMaxZoomStreet: Double = 16.0
+    static let burundiMaxZoomStreet: Double = 14.0
     static let burundiMaxZoomHybrid: Double = 18.0
 
     static var burundiBounds: MLNCoordinateBounds {

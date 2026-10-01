@@ -15,9 +15,9 @@ final class OfflineMapManager {
 
     static let minZoom = 7
     //mapzoom 14
-    static let maxZoomStreetsOffline = 16
-    static let maxZoomSatelliteOffline = 16
-    static let maxZoomHybridLabels = 16
+    static let maxZoomStreetsOffline = 14
+    static let maxZoomSatelliteOffline = 14
+    static let maxZoomHybridLabels = 14
     
     static let minSatelliteZoomReady = 14
     static let minTileCount = 20
